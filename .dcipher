@@ -1,0 +1,2 @@
+#!/bin/bash
+mcrypt -ud -f ../../CONF -a des *

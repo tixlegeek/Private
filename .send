@@ -1,0 +1,5 @@
+#!/bin/bash
+./.cipher
+git status
+git commit -am "AutoSent things"
+git push origin master
